@@ -1,5 +1,5 @@
 ### 👋 Hello there! Welcome to my GitHub profile
-<img src="https://awesome-svg.vercel.app/card/card_2?name=Erdenechuluun%20Kh&summary=Software%20Developer&style=nameColor:rgba(29,53,87,1);summaryColor:rgba(230,57,70,1);backgroundColor:rgba(249,249,249,1);" />
+<img src="https://awesome-svg.vercel.app/card/card_2?name=Erdenechuluun%20Kh&summary=Software%20Developer&style=nameColor:rgba(29,53,87,1);summaryColor:rgba(69,123,157,1);backgroundColor:rgba(249,249,249,1);" />
 
 
 
