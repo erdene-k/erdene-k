@@ -1,9 +1,10 @@
 ### 👋 Hello there! Welcome to my GitHub profile
-<img src="https://awesome-svg.vercel.app/card/card_2?name=Erdenechuluun%20Kh&summary=Software%20Developer&style=nameColor:rgba(168,218,220,1);summaryColor:rgba(69,123,157,1);backgroundColor:rgba(249,249,249,1);" />
+<img src="https://awesome-svg.vercel.app/card/card_2?name=Erdenechuluun%20Kh&summary=Software%20Developer&style=nameColor:rgba(29,53,87,1);summaryColor:rgba(230,57,70,1);backgroundColor:rgba(249,249,249,1);" />
 
 
 
-## 🚀  I'm a passionate computer science enthusiast with valuable experience that spans various domains of technology. From developing mobile loan applications to building web portals and RESTful API services, I've had the opportunity to tackle diverse challenges in the field. My journey has equipped me with a deep understanding of software development, and I'm committed to pushing the boundaries of what's possible in the world of technology.
+## 🚀 
+ I'm a passionate computer science enthusiast with valuable experience that spans various domains of technology. From developing mobile loan applications to building web portals and RESTful API services, I've had the opportunity to tackle diverse challenges in the field. My journey has equipped me with a deep understanding of software development, and I'm committed to pushing the boundaries of what's possible in the world of technology.
 
 
 ## 🔗 Connect With Me 👇
