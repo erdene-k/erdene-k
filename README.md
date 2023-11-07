@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://awesome-svg.vercel.app/card/card_2?name=MD.USMAN%20ANSARI&summary=Software%20Developer&style=nameColor:rgba(244,34,150,1);summaryColor:rgba(232,49,150,1);backgroundColor:rgba(255,255,255,1);" />
+<img src="https://awesome-svg.vercel.app/card/card_2?name=Erdenechuluun%20ANSARI&summary=Software%20Developer&style=nameColor:rgba(29,53,87,1);summaryColor:rgba(69,123,157,1);backgroundColor:rgba(249,249,249,1);" />
 
 ## 🚀 About Me
 I love to build things for the web and solve real-life problems using various languages/technologies. 
